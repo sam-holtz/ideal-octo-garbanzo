@@ -50,11 +50,6 @@ src/
 └── App.js          # Main application
 ```
 
-## Contact
-
-- **Email:** [samholtz1205@gmail.com](mailto:samholtz1205@gmail.com)
-- **GitHub:** [github.com/sam-holtz](https://github.com/sam-holtz)
-
 ## License
 
 © 2025 Sam Holtz. All rights reserved.
